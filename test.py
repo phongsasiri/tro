@@ -1,5 +1,5 @@
 print('test')
 
 print ('ttttttttt')
-print ('ffkr')
+print ('fkr')
 print ('fhb')
